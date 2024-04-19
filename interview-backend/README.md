@@ -35,7 +35,7 @@ The assignment is to:
 ## Instructions
 
  1. Fork the repository
-    1. The forked repository should be private and shared with GitHub users Davor Jerbic (djerbic) and Daniel Gierl (BeABetterHumanBeing)
+    1. The forked repository should be private and shared with GitHub user your recruiter shared in the initial email. 
  1. All code changes should be merged in as PRs to the forked repository.
  1. Write code and PR descriptions as if you were writing production-level code.
  1. The template in this repository provides a basic environment. Everything needed to start and test your code is available and functional. We expect you to use PostgreSQL and Java/Kotlin + Spring. On top of that, if you want to add new frameworks, you are free to do so.
